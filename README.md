@@ -1,2 +1,3 @@
-# Acurrency converter
- currency converter application
+"# simple-calculator" 
+"# Currency-Converter" 
+"# Currency-Converter-app" 
